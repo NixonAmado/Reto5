@@ -1,0 +1,14 @@
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\bin\Debug\net8.0\Reto4.exe
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\bin\Debug\net8.0\Reto4.deps.json
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\bin\Debug\net8.0\Reto4.runtimeconfig.json
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\bin\Debug\net8.0\Reto4.dll
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\bin\Debug\net8.0\Reto4.pdb
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\Reto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\Reto4.AssemblyInfoInputs.cache
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\Reto4.AssemblyInfo.cs
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\Reto4.csproj.CoreCompileInputs.cache
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\Reto4.dll
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\refint\Reto4.dll
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\Reto4.pdb
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\Reto4.genruntimeconfig.cache
+C:\Users\APT01-62\Documents\c#\Reto4\Reto4\obj\Debug\net8.0\ref\Reto4.dll

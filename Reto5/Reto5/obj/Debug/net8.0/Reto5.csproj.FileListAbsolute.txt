@@ -1,0 +1,14 @@
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\bin\Debug\net8.0\Reto5.exe
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\bin\Debug\net8.0\Reto5.deps.json
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\bin\Debug\net8.0\Reto5.runtimeconfig.json
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\bin\Debug\net8.0\Reto5.dll
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\bin\Debug\net8.0\Reto5.pdb
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\Reto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\Reto5.AssemblyInfoInputs.cache
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\Reto5.AssemblyInfo.cs
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\Reto5.csproj.CoreCompileInputs.cache
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\Reto5.dll
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\refint\Reto5.dll
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\Reto5.pdb
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\Reto5.genruntimeconfig.cache
+C:\Users\APT01-62\Documents\c#\Reto5\Reto5\obj\Debug\net8.0\ref\Reto5.dll
